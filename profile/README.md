@@ -16,9 +16,9 @@ Here are the central tools and systems currently under development:
 
 | Project | Type | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **`[proiect-1]`** | Granular / Glitch | Describe what it does here (e.g., realtime microsound and glitch buffer fragmentation). | 🛠️ *Dev* |
-| **`[proiect-2]`** | DSP Tool | Generate sound using specific chaotic algoritms or physical models. | 🟢 *Stable* |
-| **`[proiect-3]`** | Utility | MIDI generative patterns or routing built within the Antigravity ecosystem. | 🧪 *Alpha* |
+| **`[AURA-4]`** | Granular / Glitch | Analog wave generator based on 4 oscillators (with effect chains) | 🛠️ *Dev* |
+| **`[KaloKorg-M20s]`** | Monophonic synth | Modeled in Rust, based on official Korg MS20 manuals and schematics | 🛠️ *Dev* |
+| **`[KlangBench]`** | Test equipment emulation | Inspired by real test equipment devices (old & new) and the forefathers of electronic music, this is an attempt at replicating an experimental music lab based on famous test equipment from the likes of Brüel & Kjær, EG&G Princeton and Koma Elektronik | 🧪 *Alpha* |
 
 ---
 
