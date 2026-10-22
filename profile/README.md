@@ -6,7 +6,7 @@
 ---
 
 ### 🌊 What is voidwave lab?
-We build audio tools, DSP experiments, and software instruments designed to fragment, dissolve, and reshape sound. Born from a fascination with the unstable, the digital-broken, and the gravitational pull of dark ambient/noise aesthetics, `voidwave lab` is the dedicated hub for all audio software developed under or with the help of the **Antigravity** framework/concept.
+We build audio tools, DSP experiments, and software instruments designed to fragment, dissolve, and reshape sound based on existing synths, schematics, test equipment manuals and pure imagination. Born from a fascination with the unstable, and the gravitational pull of dark ambient/noise aesthetics, `voidwave lab` is the dedicated hub for all audio software developed with exploration in mind. **Antigravity** and/or similar tools are also used for quickly sketching out instruments, synths, proofs of concepts and DSP design.
 
 ---
 
@@ -23,7 +23,7 @@ Here are the central tools and systems currently under development:
 ---
 
 ### 🔌 Powered by Antigravity
-The core of our experiments is driven by **Antigravity** — our internal methodology, environment, or framework designed for flexible, unorthodox DSP routing and sound generation. Under this organization, we translate those complex physics-defying ideas into separate, accessible, and community-driven repositories.
+Our internal methodology, environment, or framework designed for flexible, unorthodox DSP routing and sound generation. Under this organization, we translate those complex physics-defying ideas into separate, accessible, and community-driven repositories that can either be easily enhanced by enthusiasts, or forked & used by artists and creative minds that do not need to deal with all the intricacies of low-level programming.
 
 ---
 
