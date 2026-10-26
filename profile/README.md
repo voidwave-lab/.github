@@ -16,8 +16,9 @@ Here are the central tools and systems currently under development:
 
 | Project | Type | Description | Status |
 | :--- | :--- | :--- | :---: |
+| **`[AETHERIUM]`** | Generative ambient | Unified Multi-Platform Generative Ambient Soundscape & Receptive Music Therapy Sanctuary  | 🛠️ *Dev* |
 | **`[AURA-4]`** | Granular / Glitch | Analog wave generator based on 4 oscillators (with effect chains) | 🛠️ *Dev* |
-| **`[KaloKorg-M20s]`** | Monophonic synth | Modeled in Rust, based on official Korg MS20 manuals and schematics | 🛠️ *Dev* |
+| **`[KaloKorg-M20s](https://github.com/voidwave-lab/KaloKorg-M20s)`** | Monophonic synth | Modeled in Rust, based on official Korg MS20 manuals and schematics | 🛠️ *Dev* |
 | **`[KlangBench]`** | Test equipment emulation | Inspired by real test equipment devices (old & new) and the forefathers of electronic music, this is an attempt at replicating an experimental music lab based on famous test equipment from the likes of Brüel & Kjær, EG&G Princeton and Koma Elektronik | 🧪 *Alpha* |
 
 ---
